@@ -1,2 +1,4 @@
-# earth-globe
-interactive earth globe
+# Earth Globe
+Interactive earth globe
+
+**!AI used in the process!**
